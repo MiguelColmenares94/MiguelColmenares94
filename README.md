@@ -8,7 +8,7 @@
     <img src="banner.gif" alt="Full Stack Software Engineer">
   </div>
 </div>
-
+<br>  
   <p>
 Hi! I'm Miguel, curious about everything related to Linux, Cybersecurity and Software Development. I almost never have a blank mind, as I like to think about everyday problems and try to solve them with code.
 
@@ -28,10 +28,12 @@ If you are passionate about Linux, cybersecurity or technology in general, get i
 <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/miguel-colmenaresp/">LinkedIn</a>
 </p>
-
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MiguelColmenares94)](https://github.com/ryo-ma/github-profile-trophy)
+  <h2>My work</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0flNVK7fxNc" title="YouTube Video Player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+</div>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelColmenares94)](https://github.com/anuraghazra/github-readme-stats)
 
