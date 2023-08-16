@@ -5,7 +5,7 @@
 
 <div align="center">
   <div>
-    <img src="git_bg2.gif" alt="Full Stack Software Engineer" height="200" width="auto">
+    <img src="git_bg2.gif" alt="Full Stack Software Engineer" height="300" width="600">
   </div>
 </div>
 
@@ -21,9 +21,13 @@ If you are passionate about Linux, cybersecurity or technology in general, get i
 <br>
 <p>Skills: C | Python | Javascript | Typescript | Bash | HTML | CSS | Flask | MySQL | SQLAlchemy</p>
 <br>
-- 🔭 I’m currently working on improving my problem solving skills 
-- 🌱 I’m currently learning React 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/miguel-colmenaresp/">LinkedIn</a> 
+<p>
+- 🔭 I’m currently working on improving my problem solving skills
+<br>
+- 🌱 I’m currently learning React
+<br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/miguel-colmenaresp/">LinkedIn</a>
+</p>
 
 <div align="center">
 
