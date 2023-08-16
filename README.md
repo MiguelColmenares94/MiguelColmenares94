@@ -25,15 +25,14 @@ Skills: C | Python | Javascript | Typescript | Bash | HTML | CSS | Flask | MySQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguel-colmenaresp/) 
 
 <div align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MiguelColmenares94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-colmenaresp//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MiguelColmenares94)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-colmenaresp//)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MiguelColmenares94)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelColmenares94)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelColmenares94&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MiguelColmenares94)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MiguelColmenares94)  
 
