@@ -30,8 +30,9 @@ If you are passionate about Linux, cybersecurity or technology in general, get i
 </p>
 <div align="center">
   <h2>My work</h2>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0flNVK7fxNc" title="YouTube Video Player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
+  <a href="https://www.youtube.com/watch?v=0flNVK7fxNc">
+    <img src="https://img.youtube.com/vi/0flNVK7fxNc/0.jpg" alt="YouTube Video">
+  </a>
 </div>
 <div align="center">
 
