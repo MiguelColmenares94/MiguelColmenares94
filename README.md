@@ -1,6 +1,14 @@
-### Hi there 👋, my name is Miguel
-#### Full Stack Software Engineer
-![Full Stack Software Engineer](git_bg2.gif)
+<p align="center">
+  <h1>Hi there 👋, my name is Miguel</h1>
+  <h2>Full Stack Software Engineer</h2>
+</p>
+
+<p align="center">
+  <div>
+    <img src="git_bg2.gif" alt="Full Stack Software Engineer" height="200">
+  </div>
+</p>
+
 
 Hi! I'm Miguel, curious about everything related to Linux, Cybersecurity and Software Development. I almost never have a blank mind, as I like to think about everyday problems and try to solve them with code.
 
