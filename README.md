@@ -23,7 +23,7 @@ If you are passionate about Linux, cybersecurity or technology in general, get i
 <br>
 - 🔭 I’m currently working on improving my problem solving skills 
 - 🌱 I’m currently learning React 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguel-colmenaresp/) 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/miguel-colmenaresp/">LinkedIn</a> 
 
 <div align="center">
 
@@ -32,8 +32,6 @@ If you are passionate about Linux, cybersecurity or technology in general, get i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelColmenares94)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelColmenares94&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/MiguelColmenares94)  
-
+  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MiguelColmenares94)
 </div>
