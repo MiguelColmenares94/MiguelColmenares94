@@ -29,6 +29,4 @@ Skills: C | Python | Javascript | Typescript | Bash | HTML | CSS | Flask | MySQL
 
 ![GitHub metrics](https://metrics.lecoq.io/MiguelColmenares94)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MiguelColmenares94)  
-
-![Profile views](https://gpvc.arturio.dev/MiguelColmenares94)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MiguelColmenares94)
