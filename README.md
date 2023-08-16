@@ -24,7 +24,7 @@ If you are passionate about Linux, cybersecurity or technology in general, get i
 <br>
 - 🌱 I’m currently learning React
 <br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/miguel-colmenaresp/" target="_blank">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/miguel-colmenaresp/">LinkedIn</a>
 </p>
 <br>
 <div>
@@ -37,7 +37,7 @@ If you are passionate about Linux, cybersecurity or technology in general, get i
   <a href="https://www.youtube.com/watch?v=0flNVK7fxNc">
     <img src="https://img.youtube.com/vi/0flNVK7fxNc/0.jpg" alt="YouTube Video">
   </a>
-  <p><a href="https://github.com/MiguelColmenares94/SoundHood" target="_blank">Project Repository</a></p>
+  <p><a href="https://github.com/MiguelColmenares94/SoundHood">Project Repository</a></p>
 </div>
 <div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelcolmenares94&show_icons=true&locale=en&layout=compact" alt="miguelcolmenares94" /></p>
