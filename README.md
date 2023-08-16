@@ -5,7 +5,7 @@
 
 <div align="center">
   <div>
-    <img src="banner.gif" alt="Full Stack Software Engineer" height="300" width="600">
+    <img src="banner.gif" alt="Full Stack Software Engineer">
   </div>
 </div>
 
