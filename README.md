@@ -20,9 +20,9 @@ When I'm not immersed in lines of code or learning something new, you'll find me
 If you are passionate about Linux, cybersecurity or technology in general, get in touch! If you want to exchange ideas, tackle coding challenges or just chat about the latest tech trends, I'm always ready.
 </p>
 <p>
-- 🔭 I’m currently working on improving my problem solving skills
+- 🔭 I’m currently working on Growing my portfolio
 <br>
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js & Java
 <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/miguel-colmenaresp/">LinkedIn</a>
 </p>
